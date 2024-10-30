@@ -1,0 +1,5 @@
+以下の図は、基地局装置とアンテナの構成の例である。【A】～【C】について正しい語句の組合せを選べ。,【A】コアネットワーク【B】CU/DU【C】RU,【A】セントラルネットワーク【B】CU/DU【C】RU,【A】コアネットワーク【B】RU【C】CU/DU,【A】セントラルネットワーク【B】RU【C】CU/DU,"RU（Radio Unit）は、アンテナ、送信増幅器、受信増幅器、無線処理を指します。CU/DU（Central Unit/Distributed Unit）は、ベースバンド処理と制御を指します。CNはコアネットワークになります。",mobile_1.png
+2003年にKDDIから提供された方式で、データ伝送専用の通信方式が取り入れられ、下り方向で最大3.1～9.2Mbpsの速度を実現した方式はなに？,CDMA2000 1x EV-DO,CDMA2000 1X,W-CDMA,HSPA,"CDMA200 1Xは、KDDI採用の下り最大数百kbps。W-CDMA：NTTドコモやソフトバンクモバイル(現ソフトバンク)に採用、下り最大数百kbps。HSPA：W-CDMAのデータ通信方式を高速化した方式。",
+LTE-Advanced方式の代表的な技術であり、国内ではKDDIが初めて利用、NTTドコモでは2018年5月に下り最大988Mbpsの実現に寄与した、周波数を束ねることで高速度化可能な技術はなにか？,CA(Carrier Aggregation),周波数ホッピング,FDD(frequency Division Duplex),OFDM,,
+モバイルネットワークの端末として、情報処理を行い、ネットワークを終端する機能を持った通信機器はなんというか。,モバイル端末,モバイル接続機器,データ通信カード,モバイルワイヤレスルータ,,
+次世代PHSに相当する【A】サービスを2009年10月にウィルコムが提供開始したが、2010年12月に【B】へ継承した。その後、【A】を高度化、拡張した【C】というサービスを提供したが、その中で自営システムのものを【D】と呼ぶ。,"【A】XGP【B】Wireless City Planning【C】AXGP【D】sXGP","【A】ISDN【B】Wireless City Planning【C】sXGP【D】AXGP","【A】BWA【B】UQモバイル【C】sXGP【D】AXGP","【A】BWA【B】UQモバイル【C】AXGP【D】sXGP",,
